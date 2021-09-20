@@ -1,0 +1,336 @@
+
+/* footer{
+    background-color: black;
+    text-decoration-color: white;
+} */
+
+/* .home{
+    background-image: url("https://www.teahub.io/photos/full/95-959901_20-free-simple-plain-backgrounds-violet-pastel-color.jpg");
+    display: flex;
+    max-width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-size: cover;
+    flex-direction: column-reverse;
+    }
+
+.first-half{
+    display: inline-block;
+    margin-top: 300px;
+    flex-direction: column;
+    justify-content: center;
+    
+
+}    
+
+.text-big{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.text-small{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+}
+
+
+.image{
+   margin-top: 150px;
+   padding-left: 500px;
+} */
+
+
+.background{
+    background-size: cover;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMFmtNgFoH0cjw0YWiRxuiR-qF1DmAGzBgw&usqp=CAU");
+}
+
+.firstsection{
+    height:100vh;
+
+}
+
+/* .firstsection{
+    display: flex;
+    flex-direction: column;
+} */
+
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 50%;
+    margin: auto;
+    height: 80%;
+    color:white;
+    /* flex-direction: column; */
+}
+
+.firsthalf{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.secondhalf{
+    width: 30%;
+
+}
+
+.secondhalf img{
+    width:400px;
+    height: 500px;   
+    border-radius:950px;
+    display: auto;
+    margin: auto;
+    border : 4px solid black;
+    margin-top: 100px;
+    position: relative;
+ 
+    
+
+}
+
+.text-big{
+    font-size:300%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.text-small{
+    font-weight: 200;
+}
+/* 
+.btn{
+    background-color: none;
+    color:white ;
+    padding: 7px 10px;
+    margin: 15px;
+    font-family: serif;
+    border: 4px solid white;
+    font-size: 20px;
+    cursor:pointer;
+    border-radius: 8px;
+
+} */
+
+.btn2{
+    background-color: black;
+    color:white ;
+    padding: 7px 10px;
+    margin: 15px;
+    font-family: serif;
+    border: 2px solid white;
+    font-size: 20px;
+    cursor:pointer;
+    border-radius: 8px;
+    text-decoration: none;
+
+} 
+
+.btn2 a:hover{
+     font-family: cursive;
+     color : blue;
+
+}
+
+.btn2 a{
+    text-decoration: none;
+    color:white;
+     background-color: black; 
+    
+}
+
+.heading1{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding:15px;
+    background-image:  url("https://media.istockphoto.com/photos/pink-background-wall-picture-id848765404?b=1&k=20&m=848765404&s=170667a&w=0&h=I70GYr4Ym4pwonBFcs2Jo8slxVWuvhu4ecn22lGvhfA=")
+}
+.profile{
+    text-decoration: none;
+}
+
+.section{
+    display:flex;
+    align-items : center;
+    justify-content: space-evenly;
+    max-width:80%;
+    margin:auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    color:black;
+}
+
+.thumbnail img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    padding:5px;
+    border-radius : 10px;
+    margin-right: 15px;
+}
+
+.section-reverse{
+    flex-direction:row-reverse;
+}
+
+
+.heading2{
+    font-family: cursive;
+    color:darkcyan;
+    padding: 15px;
+    font-size: larger;
+}
+
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+.Hobbies{
+    text-decoration: none;
+}
+.heading3{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding:15px;
+    background-image:  url("https://cdn.wallpapersafari.com/92/62/paDcTi.jpg")
+}
+
+
+.heading4{
+    font-family: cursive;
+    color:darkblue;
+    margin-top: 25px;
+    font-size: larger;
+   
+}
+
+.logo1 img{
+    width:150px;
+    height:120px;
+}
+
+.heading5{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding:15px;
+    background-image:  url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm218batch9-aum-06_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=189eb94a4e0b0448c4b1b7a076cc4a42")
+}
+
+.heading6{
+    font-family: cursive;
+    color:darkmagenta;
+    margin-top: 25px;
+    font-size: larger;
+    font-weight:bold;
+   
+}
+
+.skills{
+    text-decoration: none;
+}
+
+.heading7{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding:15px;
+    background-image:  url("https://assets.wallpapersin4k.org/uploads/2017/04/Light-Color-HD-Wallpapers-14.jpg")
+}
+
+.contact{
+    text-decoration : none;
+}
+
+.social{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight:bold;
+}
+
+.btn2 a:hover
+{
+    
+    font-family: cursive;
+    font-size: large;
+    
+ }
+/* .btn{
+    color: black;
+    background-color: black;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}   */
+
+footer {
+    background-color: black;
+    padding: 10px;
+    
+    margin-top: 30px;
+    
+
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.btn a{
+    text-decoration: none;
+    color : white;
+}
+
+.footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+}
+
+@media only screen and (max-width: 1160px)
+{
+   .box-main
+   {
+       flex-direction: column-reverse;
+       max-width: 100%;
+   }
+   .secondhalf img{
+    width:200px;
+    height: 250px; 
+    margin-top: 200px;
+  
+   }
+   .secondhalf{
+      
+       margin-right:25%;
+   }
+   
+   .btn{
+      margin: 10px;
+     font-size: 8px;
+    
+   }
+   .firsthalf{
+       margin-top: 20px;
+   }
+   .section{
+       flex-direction: column-reverse;
+   }
+}
+
+
+
+   
